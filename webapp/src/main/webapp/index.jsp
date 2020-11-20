@@ -1,3 +1,3 @@
 <h1> Praise the Lord Jesus Christ !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h2> Deploying on a Docker using ansible </h2>
+<h3> Cloud AWS Cloud Azure Cloud GCP </h3>
