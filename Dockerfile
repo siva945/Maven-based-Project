@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:9-jre9
+From ubuntu-latest
 
 # Maintainer 
 MAINTAINER "sivakumarp2006@yahoo.com" 
